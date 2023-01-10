@@ -19,3 +19,24 @@ E:\studia\pwś .net\projekt\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFe
 E:\studia\pwś .net\projekt\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.genruntimeconfig.cache
 E:\studia\pwś .net\projekt\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ref\ChessFen.dll
 E:\studia\pwś .net\projekt\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.Properties.Resources.resources
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessFen.exe
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessFen.deps.json
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessFen.runtimeconfig.json
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessFen.dll
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessFen.pdb
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessBoardModel.dll
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\bin\Debug\net6.0-windows\ChessBoardModel.pdb
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.Form1.resources
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.Properties.Resources.resources
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.AssemblyInfo.cs
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.csproj.CopyComplete
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.dll
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\refint\ChessFen.dll
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.pdb
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ChessFen.genruntimeconfig.cache
+C:\Users\dawid\Desktop\chessFenc#\ChessFen\obj\Debug\net6.0-windows\ref\ChessFen.dll
