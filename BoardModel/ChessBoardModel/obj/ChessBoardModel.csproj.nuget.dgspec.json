@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {}
+    "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
+    "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectUniqueName": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
         "projectName": "ChessBoardModel",
-        "projectPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
         "packagesPath": "C:\\Users\\dawid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\obj\\",
+        "outputPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,15 +10,3 @@ E:\studia\pwś .net\projekt\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6
 E:\studia\pwś .net\projekt\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\refint\ChessBoardModel.dll
 E:\studia\pwś .net\projekt\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.pdb
 E:\studia\pwś .net\projekt\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ref\ChessBoardModel.dll
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\bin\Debug\net6.0\ChessBoardModel.deps.json
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\bin\Debug\net6.0\ChessBoardModel.dll
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\bin\Debug\net6.0\ChessBoardModel.pdb
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.csproj.AssemblyReference.cache
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.AssemblyInfoInputs.cache
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.AssemblyInfo.cs
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.csproj.CoreCompileInputs.cache
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.dll
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\refint\ChessBoardModel.dll
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.pdb
-C:\Users\dawid\Desktop\chessFenc#\BoardModel\ChessBoardModel\obj\Debug\net6.0\ref\ChessBoardModel.dll

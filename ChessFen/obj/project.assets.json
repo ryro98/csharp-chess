@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\ChessFen.csproj",
+      "projectUniqueName": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\ChessFen.csproj",
       "projectName": "ChessFen",
-      "projectPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\ChessFen.csproj",
+      "projectPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\ChessFen.csproj",
       "packagesPath": "C:\\Users\\dawid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\obj\\",
+      "outputPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
-              "projectPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj"
+            "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
+              "projectPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj"
             }
           }
         }
