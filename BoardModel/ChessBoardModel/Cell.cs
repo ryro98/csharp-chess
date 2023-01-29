@@ -1,23 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Authentication;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ChessBoardModel
+﻿namespace ChessBoardModel
 {
     public class Cell
     {
-        public int RowNumber { get; set; }
         public int ColumnNumber { get; set; }
+        public int RowNumber { get; set; }
+        public int Value { get; set; }
+        public string Name { get; set; }
+        public string FigureName { get; set; }
+        public string FigureColor { get; set; }
+        public bool Attacked { get; set; }
         public bool CurrentlyOccupied { get; set; }
+        public bool EnPassant { get; set; }
+        public bool LastMove { get; set; }
         public bool LegalNextMove { get; set; }
+        public List<Cell> Attacking { get; set; }
+        public List<Cell> Protecting { get; set; }
         public Cell(int x, int y)
         {
-            RowNumber = x;
-            ColumnNumber = y;
+            ColumnNumber = x;
+            RowNumber = y;
+            Attacking = new List<Cell>();
+            Protecting = new List<Cell>();
         }
-
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\ChessFen.csproj": {}
+    "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\ChessFen.csproj": {}
   },
   "projects": {
-    "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
+    "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectUniqueName": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
         "projectName": "ChessBoardModel",
-        "projectPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj",
         "packagesPath": "C:\\Users\\dawid\\.nuget\\packages\\",
-        "outputPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\obj\\",
+        "outputPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\ChessFen.csproj": {
+    "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\ChessFen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\ChessFen.csproj",
+        "projectUniqueName": "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\ChessFen.csproj",
         "projectName": "ChessFen",
-        "projectPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\ChessFen.csproj",
+        "projectPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\ChessFen.csproj",
         "packagesPath": "C:\\Users\\dawid\\.nuget\\packages\\",
-        "outputPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\ChessFen\\obj\\",
+        "outputPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\ChessFen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
-                "projectPath": "E:\\studia\\pwś .net\\projekt\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj"
+              "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj": {
+                "projectPath": "C:\\Users\\dawid\\Desktop\\chessFenc#\\BoardModel\\ChessBoardModel\\ChessBoardModel.csproj"
               }
             }
           }
@@ -117,7 +117,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
